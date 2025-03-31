@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @Guganye
-- 😄 You can also call me bangbangshy
+- 👋 Hi, I’m @Guganye/Bangbangshy
